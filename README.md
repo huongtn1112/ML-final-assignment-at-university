@@ -2,7 +2,7 @@
 
 ## About
 <p>
-This is a tutorial in an Python Notebook for the Kaggle competition, Quora Insincere Questions Classification.
+This is a solution in an Python Notebook for the Kaggle competition, Quora Insincere Questions Classification.
 </p>
 
 ![c_image](https://storage.googleapis.com/kaggle-organizations/407/thumbnail.png?r=95)
